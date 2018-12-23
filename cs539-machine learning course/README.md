@@ -1,9 +1,9 @@
 
 # CS539 - Machine learning course
 assignment of the Machine learning course
-## Simple projects
+## 1. Simple projects
 Some algorithms written by python
-### decision tree
-### linear regression
-### logistic regression
-### neural network
+### (1) decision tree
+### (2) linear regression
+### (3) logistic regression
+### (4) neural network
