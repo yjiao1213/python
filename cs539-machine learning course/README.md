@@ -1,2 +1,3 @@
 
-# Some homework and projects in Machine learning course
+# CS539 - Machine learning course
+
