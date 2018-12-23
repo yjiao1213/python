@@ -3,7 +3,7 @@
 assignment of the Machine learning course
 ## Simple projects
 Some algorithms written by python
-### decisiontree
+### decision tree
 ### linear regression
 ### logistic regression
 ### neural network
