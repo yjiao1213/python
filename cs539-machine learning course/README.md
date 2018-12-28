@@ -8,3 +8,4 @@ Some algorithms written by python <br>
 (3) logistic regression <br>
 (4) neural network <br>
 ## 2. Final projects
+https://wpi-cs539.github.io/
