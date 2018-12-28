@@ -9,3 +9,5 @@ The projects written by python in this book <br>
 ###### Simple game by pygame
 ###### Simple web app by Django
 ## 3. Machine learning course
+The assignments that written by python <br>
+keyword: decision tree, linear regression, logistic regression, neural network
